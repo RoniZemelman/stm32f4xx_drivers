@@ -4,4 +4,8 @@
 *.bin
 *.elf
 *.su
+*.list
+*.map
+
+*.launch
 .settings/
